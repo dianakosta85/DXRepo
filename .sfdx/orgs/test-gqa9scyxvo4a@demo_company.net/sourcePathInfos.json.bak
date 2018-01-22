@@ -60,15 +60,16 @@
     [
         "C:\\Users\\diana.kostanovich\\newDxWorkspace\\dev2018DX",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\diana.kostanovich\\newDxWorkspace\\dev2018DX",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516551908841,
-            "changeTime": 1516551908841,
+            "modifiedTime": 1516528858166,
+            "changeTime": 1516528858166,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
-            "contentHash": "4422c14d4311811675b6d1e4072645d235af4fbd"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -91,10 +92,10 @@
             "sourcePath": "C:\\Users\\diana.kostanovich\\newDxWorkspace\\dev2018DX\\force-app\\main\\default\\classes\\DXTest.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 42,
-            "modifiedTime": 1516626582141,
-            "changeTime": 1516626582142,
-            "contentHash": "f64028ad6d3868f41d4f2554969536a395801ced"
+            "size": 40,
+            "modifiedTime": 1516625197439,
+            "changeTime": 1516625197439,
+            "contentHash": "0e590acb056d2ac9503d90e781c44571799d2106"
         }
     ],
     [
